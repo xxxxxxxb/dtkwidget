@@ -4,11 +4,11 @@ Deepint Tool Kit Core(DtkWidget) 提供各种UOS风格dtk基础控件.
 
 您应该首先阅读 [Deepin应用程序规范](\ref doc/Specification).
 
-英文说明:[README.md](https://github.com/linuxdeepin/dtkwidget/blob/master/README.md)
+英文说明: [README.md](https://github.com/linuxdeepin/dtkwidget/blob/master/README.md)
 
 ## 文档
 
-中文文档:[DtkWidget: DtkWidget](https://linuxdeepin.github.io/dtkwidget/)
+中文文档: [DtkWidget: DtkWidget](https://linuxdeepin.github.io/dtkwidget/)
 
 ## 依赖
 
